@@ -1,0 +1,15 @@
+body{
+	background-image: url(../img/image.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.customed-border{
+	border: 5px solid #FFF;
+}
+
+.customed-text{
+	text-align: center;
+	font-family: "calibri", Garamond, 'Comic Sans';
+	font-size: xx-large;
+}
